@@ -1,0 +1,15 @@
+@tailwind base;
+
+
+
+
+@tailwind components;
+
+
+
+@tailwind utilities;
+
+svg {
+    height: 1rem;
+    width: 1rem;
+  }
